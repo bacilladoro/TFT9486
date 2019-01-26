@@ -1,0 +1,22 @@
+{
+    "name": "TFT9486",
+    "version": "1.0.0",
+    "keywords": "ILI9486, UNO SHIELD",
+    "description": "A new, ILI9486, UNO SHIELD",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/bacilladoro/TFT9486.git"
+    },
+    "authors":
+    [
+      {
+         "name": "bacilladoro",
+         "email": "bacilladoro@gmail.com",
+         "url": "https://github.com/bacilladoro/TFT9486.git",
+         "maintainer": true
+      }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
