@@ -1,7 +1,9 @@
 {
     "name": "TFT9486",
     "version": "1.0.0",
-    "keywords": "ILI9486, UNO SHIELD",
+    "keywords": [
+        "display"
+    ], 
     "description": "A new, ILI9486, UNO SHIELD",
     "repository":
     {
@@ -17,6 +19,12 @@
          "maintainer": true
       }
     ],
-    "frameworks": "arduino",
-    "platforms": "*"
+"frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelavr"
+    ], 
   }
+    }, 
+    "id": 170286
