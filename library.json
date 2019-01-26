@@ -6,14 +6,14 @@
     "repository":
     {
       "type": "git",
-      "url": "https://github.com/bacilladoro/TFT9486.git"
+      "url": "http://github.com/bacilladoro/TFT9486.git"
     },
     "authors":
     [
       {
          "name": "bacilladoro",
          "email": "bacilladoro@gmail.com",
-         "url": "https://github.com/bacilladoro/TFT9486.git",
+         "url": "http://github.com/bacilladoro/TFT9486.git",
          "maintainer": true
       }
     ],
